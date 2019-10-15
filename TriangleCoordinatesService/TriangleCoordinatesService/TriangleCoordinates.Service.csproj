@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TriangleCoordinates.Lib\TriangleCoordinates.Lib.csproj" />
+    <ProjectReference Include="..\TriangleCoordinates.Util\TriangleCoordinates.Util.csproj" />
+  </ItemGroup>
+
+</Project>
